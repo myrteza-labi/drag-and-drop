@@ -1,0 +1,13 @@
+.Squares {
+    display: inline-block;
+    height: 160px;
+    width: 160px;
+    margin: 10px;
+    border: solid 3px black;
+    background: #fff;
+}
+
+.hovered {
+    background: #f4f4f4;
+    border-style: dashed;
+}
